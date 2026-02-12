@@ -124,3 +124,4 @@ export default function EmployeeForm({ initialData, onSubmit, onCancel }) {
         </form>
     );
 }
+

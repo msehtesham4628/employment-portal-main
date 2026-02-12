@@ -24,3 +24,4 @@ app.use('/api/employees', require('./routes/employees'));
 
 // Start Server
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+
